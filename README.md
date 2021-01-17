@@ -23,3 +23,5 @@ Ikebana Hugs
 6.  Payment page
 7.  Chat Box
 8.  Thank You
+<Preview>
+         https://xd.adobe.com/view/7179923a-4b79-49e0-901a-887cdda0b3ea-242a/
