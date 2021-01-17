@@ -16,8 +16,8 @@ Ikebana Hugs
 
 <sitemap>
 1. Welcome page (Login page + Sign up)
-2. Landing page with menu option
-3. Results
+2. Landing page 
+3. Menu
 4. Product page
 5.  Cart page
 6.  Payment page
